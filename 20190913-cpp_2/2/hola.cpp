@@ -4,9 +4,9 @@
 int main(void)
 {
   std::string name ;
-  std::cout << "Who are u?" <<  std::endl;
+  std::cout << "Hola, ¿Cual es su nombre?" <<  std::endl;
   std::cin >> name;
-  std::cout <<"Hello, Buongiorno, Hey, Guten Tag, Nín hao, Shalóm, Namasté, Kónnichi wa, Talofa " << name << std::endl;
+  std::cout <<"Un gusto conocerte " << name << ", ten un lindo dia" << std::endl;
   
   return 0;
 }
