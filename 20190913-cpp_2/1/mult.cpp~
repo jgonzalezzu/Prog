@@ -1,0 +1,7 @@
+#include <iostream> //uso de la librería 
+
+int main(void)
+{
+  std::cout << "Aloha" <<  std::endl; //son las <<
+  return 0;
+}
