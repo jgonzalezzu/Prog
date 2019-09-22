@@ -1,0 +1,7 @@
+para el operadro ternario para hacer uso de if else para hacer menos lineas (con poco uso)
+
+x=(clausura)?___orden si se cumple___ : ____orden si no se cumple ;
+
+OPERADOR COMMA
+
+Pendiente el uso en un ejercicio específico
