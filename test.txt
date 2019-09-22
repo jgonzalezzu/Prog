@@ -1,2 +1,0 @@
-Test para la carga de archivos a un repositorio remoto privado
-HERE!
